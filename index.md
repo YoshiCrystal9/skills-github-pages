@@ -1,12 +1,6 @@
 ---
-title: Welcome to my blog
+title: pepito
 ---
 
-fortnite battlepass
-
-# chansey
-
-## oakdsa
-
-### jiasdoiadjadosad
+hola que tal socio
 
